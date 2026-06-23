@@ -1,0 +1,715 @@
+{
+  "iterations": 50000,
+  "cfr": {
+    "time_seconds": 13.56,
+    "num_info_sets": 216,
+    "strategy": [
+      {
+        "info_set": "0|Qs|?|",
+        "fold": 0.0008,
+        "call": 0.3175,
+        "raise": 0.6817,
+        "visits": 8439.000000000016
+      },
+      {
+        "info_set": "0|Qh|?|",
+        "fold": 0.0001,
+        "call": 0.2412,
+        "raise": 0.7587,
+        "visits": 8426.999999999982
+      },
+      {
+        "info_set": "1|Kh|?|c",
+        "fold": 0.0,
+        "call": 0.0025,
+        "raise": 0.9975,
+        "visits": 8414.999999999998
+      },
+      {
+        "info_set": "1|Kh|?|r",
+        "fold": 0.0,
+        "call": 0.0001,
+        "raise": 0.9999,
+        "visits": 8414.999999999998
+      },
+      {
+        "info_set": "1|Kh|?|crr",
+        "fold": 0.0,
+        "call": 1.0,
+        "raise": 0.0,
+        "visits": 8393.751523495434
+      },
+      {
+        "info_set": "1|Qs|?|c",
+        "fold": 0.0,
+        "call": 0.0067,
+        "raise": 0.9933,
+        "visits": 8380.0
+      },
+      {
+        "info_set": "1|Qs|?|r",
+        "fold": 0.0032,
+        "call": 0.0041,
+        "raise": 0.9927,
+        "visits": 8380.0
+      },
+      {
+        "info_set": "1|Js|?|r",
+        "fold": 0.0177,
+        "call": 0.0001,
+        "raise": 0.9822,
+        "visits": 8357.000000000002
+      },
+      {
+        "info_set": "1|Js|?|c",
+        "fold": 0.0002,
+        "call": 0.2768,
+        "raise": 0.723,
+        "visits": 8356.999999999993
+      },
+      {
+        "info_set": "1|Ks|?|c",
+        "fold": 0.0,
+        "call": 0.0002,
+        "raise": 0.9998,
+        "visits": 8351.000000000002
+      },
+      {
+        "info_set": "1|Ks|?|r",
+        "fold": 0.0,
+        "call": 0.0002,
+        "raise": 0.9998,
+        "visits": 8350.999999999998
+      },
+      {
+        "info_set": "1|Ks|?|crr",
+        "fold": 0.0,
+        "call": 1.0,
+        "raise": 0.0,
+        "visits": 8349.310636957563
+      },
+      {
+        "info_set": "0|Jh|?|",
+        "fold": 0.1427,
+        "call": 0.544,
+        "raise": 0.3133,
+        "visits": 8334.000000000004
+      },
+      {
+        "info_set": "1|Qs|?|crr",
+        "fold": 0.0,
+        "call": 1.0,
+        "raise": 0.0,
+        "visits": 8323.802696141312
+      },
+      {
+        "info_set": "0|Kh|?|",
+        "fold": 0.0,
+        "call": 0.0009,
+        "raise": 0.9991,
+        "visits": 8315.999999999998
+      },
+      {
+        "info_set": "0|Kh|?|rr",
+        "fold": 0.0,
+        "call": 1.0,
+        "raise": 0.0,
+        "visits": 8308.181633742908
+      },
+      {
+        "info_set": "1|Qh|?|c",
+        "fold": 0.0005,
+        "call": 0.0174,
+        "raise": 0.982,
+        "visits": 8276.000000000002
+      },
+      {
+        "info_set": "1|Qh|?|r",
+        "fold": 0.0046,
+        "call": 0.0003,
+        "raise": 0.9951,
+        "visits": 8276.0
+      },
+      {
+        "info_set": "0|Js|?|",
+        "fold": 0.017,
+        "call": 0.5489,
+        "raise": 0.434,
+        "visits": 8274.00000000001
+      },
+      {
+        "info_set": "1|Jh|?|c",
+        "fold": 0.0006,
+        "call": 0.2429,
+        "raise": 0.7565,
+        "visits": 8221.000000000007
+      },
+      {
+        "info_set": "1|Jh|?|r",
+        "fold": 0.4433,
+        "call": 0.0267,
+        "raise": 0.5299,
+        "visits": 8220.999999999976
+      },
+      {
+        "info_set": "0|Ks|?|",
+        "fold": 0.0001,
+        "call": 0.0033,
+        "raise": 0.9966,
+        "visits": 8210.0
+      },
+      {
+        "info_set": "0|Ks|?|rr",
+        "fold": 0.0,
+        "call": 1.0,
+        "raise": 0.0,
+        "visits": 8182.336751079999
+      },
+      {
+        "info_set": "1|Qh|?|crr",
+        "fold": 0.0,
+        "call": 1.0,
+        "raise": 0.0,
+        "visits": 8127.341730816646
+      },
+      {
+        "info_set": "0|Qh|?|rr",
+        "fold": 0.0,
+        "call": 1.0,
+        "raise": 0.0,
+        "visits": 6393.602889046909
+      },
+      {
+        "info_set": "1|Jh|?|crr",
+        "fold": 0.0,
+        "call": 1.0,
+        "raise": 0.0,
+        "visits": 6219.137273345371
+      },
+      {
+        "info_set": "1|Js|?|crr",
+        "fold": 0.0,
+        "call": 1.0,
+        "raise": 0.0,
+        "visits": 6042.085242206816
+      },
+      {
+        "info_set": "0|Qs|?|rr",
+        "fold": 0.0,
+        "call": 1.0,
+        "raise": 0.0,
+        "visits": 5753.2176478850415
+      },
+      {
+        "info_set": "1|Ks|Qh|c",
+        "fold": 0.0,
+        "call": 0.6677,
+        "raise": 0.3323,
+        "visits": 5196.000000000008
+      },
+      {
+        "info_set": "1|Ks|Qh|r",
+        "fold": 0.4701,
+        "call": 0.2589,
+        "raise": 0.2709,
+        "visits": 5196.000000000002
+      },
+      {
+        "info_set": "1|Kh|Qs|r",
+        "fold": 0.5012,
+        "call": 0.248,
+        "raise": 0.2508,
+        "visits": 5182.000000000005
+      },
+      {
+        "info_set": "1|Kh|Qs|c",
+        "fold": 0.0001,
+        "call": 0.6876,
+        "raise": 0.3123,
+        "visits": 5182.000000000004
+      },
+      {
+        "info_set": "1|Qs|Js|r",
+        "fold": 0.9987,
+        "call": 0.0001,
+        "raise": 0.0012,
+        "visits": 5153.149244931753
+      },
+      {
+        "info_set": "1|Qs|Js|c",
+        "fold": 0.0005,
+        "call": 0.9219,
+        "raise": 0.0777,
+        "visits": 5153.149244931748
+      },
+      {
+        "info_set": "1|Ks|Jh|r",
+        "fold": 0.3245,
+        "call": 0.3177,
+        "raise": 0.3578,
+        "visits": 5148.000000000029
+      },
+      {
+        "info_set": "1|Ks|Jh|c",
+        "fold": 0.0,
+        "call": 0.5315,
+        "raise": 0.4685,
+        "visits": 5147.999999999998
+      },
+      {
+        "info_set": "1|Qh|Ks|r",
+        "fold": 0.4657,
+        "call": 0.2672,
+        "raise": 0.2672,
+        "visits": 5120.16301639347
+      },
+      {
+        "info_set": "1|Qh|Ks|c",
+        "fold": 0.0,
+        "call": 0.7596,
+        "raise": 0.2404,
+        "visits": 5120.163016393429
+      },
+      {
+        "info_set": "1|Kh|Js|c",
+        "fold": 0.0005,
+        "call": 0.5204,
+        "raise": 0.4791,
+        "visits": 5073.118788208076
+      },
+      {
+        "info_set": "1|Kh|Js|r",
+        "fold": 0.2526,
+        "call": 0.3651,
+        "raise": 0.3823,
+        "visits": 5073.118788208069
+      },
+      {
+        "info_set": "1|Qs|Ks|r",
+        "fold": 0.4497,
+        "call": 0.2722,
+        "raise": 0.2781,
+        "visits": 5018.6042173592905
+      },
+      {
+        "info_set": "1|Qs|Ks|c",
+        "fold": 0.0,
+        "call": 0.462,
+        "raise": 0.5379,
+        "visits": 5018.604217359262
+      },
+      {
+        "info_set": "1|Kh|Ks|c",
+        "fold": 0.0,
+        "call": 0.0,
+        "raise": 0.9999,
+        "visits": 5014.500000000001
+      },
+      {
+        "info_set": "1|Kh|Ks|r",
+        "fold": 0.0,
+        "call": 0.5,
+        "raise": 0.5,
+        "visits": 5014.5
+      },
+      {
+        "info_set": "1|Kh|Ks|crr",
+        "fold": 0.0,
+        "call": 1.0,
+        "raise": 0.0,
+        "visits": 5014.211111111111
+      },
+      {
+        "info_set": "1|Qh|Kh|r",
+        "fold": 0.4093,
+        "call": 0.2953,
+        "raise": 0.2953,
+        "visits": 5010.15205661318
+      },
+      {
+        "info_set": "1|Qh|Kh|c",
+        "fold": 0.0003,
+        "call": 0.7494,
+        "raise": 0.2503,
+        "visits": 5010.152056613154
+      },
+      {
+        "info_set": "1|Qs|Qh|r",
+        "fold": 0.0,
+        "call": 0.5,
+        "raise": 0.5,
+        "visits": 5005.252815268554
+      },
+      {
+        "info_set": "1|Qs|Qh|c",
+        "fold": 0.0,
+        "call": 0.0001,
+        "raise": 0.9999,
+        "visits": 5005.252815268553
+      },
+      {
+        "info_set": "1|Qs|Qh|crr",
+        "fold": 0.0,
+        "call": 1.0,
+        "raise": 0.0,
+        "visits": 5004.716607945565
+      }
+    ]
+  },
+  "mccfr": {
+    "time_seconds": 4.73,
+    "num_info_sets": 216,
+    "strategy": [
+      {
+        "info_set": "0|Kh|?|",
+        "fold": 0.0001,
+        "call": 0.0,
+        "raise": 0.9999,
+        "visits": 8407.0
+      },
+      {
+        "info_set": "0|Ks|?|",
+        "fold": 0.0001,
+        "call": 0.0308,
+        "raise": 0.9691,
+        "visits": 8384.0
+      },
+      {
+        "info_set": "0|Qs|?|",
+        "fold": 0.0,
+        "call": 0.0039,
+        "raise": 0.996,
+        "visits": 8342.0
+      },
+      {
+        "info_set": "0|Qh|?|",
+        "fold": 0.0004,
+        "call": 0.2445,
+        "raise": 0.7551,
+        "visits": 8328.000000000013
+      },
+      {
+        "info_set": "0|Js|?|",
+        "fold": 0.0799,
+        "call": 0.3448,
+        "raise": 0.5753,
+        "visits": 8304.000000000018
+      },
+      {
+        "info_set": "0|Jh|?|",
+        "fold": 0.2403,
+        "call": 0.4572,
+        "raise": 0.3025,
+        "visits": 8234.999999999995
+      },
+      {
+        "info_set": "1|Jh|?|r",
+        "fold": 0.5118,
+        "call": 0.1427,
+        "raise": 0.3455,
+        "visits": 7899.999999999956
+      },
+      {
+        "info_set": "0|Kh|?|rr",
+        "fold": 0.0003,
+        "call": 0.9997,
+        "raise": 0,
+        "visits": 7618.0
+      },
+      {
+        "info_set": "0|Qs|?|rr",
+        "fold": 0.0001,
+        "call": 0.9999,
+        "raise": 0,
+        "visits": 7547.0
+      },
+      {
+        "info_set": "1|Js|?|r",
+        "fold": 0.0561,
+        "call": 0.2097,
+        "raise": 0.7341,
+        "visits": 7468.99999999986
+      },
+      {
+        "info_set": "1|Qh|?|r",
+        "fold": 0.0001,
+        "call": 0.0011,
+        "raise": 0.9988,
+        "visits": 7433.0
+      },
+      {
+        "info_set": "0|Ks|?|rr",
+        "fold": 0.0001,
+        "call": 0.9999,
+        "raise": 0,
+        "visits": 7419.0
+      },
+      {
+        "info_set": "1|Qs|?|r",
+        "fold": 0.0029,
+        "call": 0.0001,
+        "raise": 0.997,
+        "visits": 7164.0
+      },
+      {
+        "info_set": "1|Ks|?|r",
+        "fold": 0.0002,
+        "call": 0.0303,
+        "raise": 0.9695,
+        "visits": 7120.0
+      },
+      {
+        "info_set": "1|Kh|?|r",
+        "fold": 0.0001,
+        "call": 0.0001,
+        "raise": 0.9998,
+        "visits": 7116.999999999999
+      },
+      {
+        "info_set": "0|Qh|?|rr",
+        "fold": 0.0005,
+        "call": 0.9995,
+        "raise": 0,
+        "visits": 6458.0
+      },
+      {
+        "info_set": "0|Js|?|rr",
+        "fold": 0.0002,
+        "call": 0.9998,
+        "raise": 0,
+        "visits": 5943.0
+      },
+      {
+        "info_set": "0|Jh|?|cr",
+        "fold": 0.9004,
+        "call": 0.0651,
+        "raise": 0.0344,
+        "visits": 5690.0
+      },
+      {
+        "info_set": "0|Js|?|cr",
+        "fold": 0.9637,
+        "call": 0.0011,
+        "raise": 0.0353,
+        "visits": 5325.0
+      },
+      {
+        "info_set": "0|Jh|?|rr",
+        "fold": 0.0002,
+        "call": 0.9998,
+        "raise": 0,
+        "visits": 5143.0
+      },
+      {
+        "info_set": "1|Kh|?|c",
+        "fold": 0.0001,
+        "call": 0.0009,
+        "raise": 0.999,
+        "visits": 5103.0
+      },
+      {
+        "info_set": "1|Qs|?|c",
+        "fold": 0.0001,
+        "call": 0.0001,
+        "raise": 0.9998,
+        "visits": 5088.0
+      },
+      {
+        "info_set": "1|Ks|?|c",
+        "fold": 0.0003,
+        "call": 0.0017,
+        "raise": 0.9979,
+        "visits": 4942.0
+      },
+      {
+        "info_set": "1|Qh|?|c",
+        "fold": 0.0013,
+        "call": 0.0021,
+        "raise": 0.9966,
+        "visits": 4853.0
+      },
+      {
+        "info_set": "1|Js|?|c",
+        "fold": 0.0049,
+        "call": 0.449,
+        "raise": 0.5461,
+        "visits": 4778.999999999998
+      },
+      {
+        "info_set": "1|Jh|?|c",
+        "fold": 0.0004,
+        "call": 0.2532,
+        "raise": 0.7465,
+        "visits": 4760.00000000009
+      },
+      {
+        "info_set": "0|Qh|?|cr",
+        "fold": 0.0054,
+        "call": 0.0001,
+        "raise": 0.9945,
+        "visits": 4637.0
+      },
+      {
+        "info_set": "1|Kh|?|crr",
+        "fold": 0.0007,
+        "call": 0.9993,
+        "raise": 0,
+        "visits": 4429.0
+      },
+      {
+        "info_set": "1|Qs|?|crr",
+        "fold": 0.0001,
+        "call": 0.9999,
+        "raise": 0,
+        "visits": 4429.0
+      },
+      {
+        "info_set": "1|Ks|?|crr",
+        "fold": 0.0005,
+        "call": 0.9995,
+        "raise": 0,
+        "visits": 4308.0
+      },
+      {
+        "info_set": "1|Qh|?|crr",
+        "fold": 0.0002,
+        "call": 0.9998,
+        "raise": 0,
+        "visits": 4207.0
+      },
+      {
+        "info_set": "0|Kh|Jh|",
+        "fold": 0.0007,
+        "call": 0.7288,
+        "raise": 0.2705,
+        "visits": 4182.999999999996
+      },
+      {
+        "info_set": "0|Kh|Js|",
+        "fold": 0.0002,
+        "call": 0.6056,
+        "raise": 0.3942,
+        "visits": 4181.9999999999945
+      },
+      {
+        "info_set": "0|Qh|Js|",
+        "fold": 0.0003,
+        "call": 0.9979,
+        "raise": 0.0018,
+        "visits": 4172.0
+      },
+      {
+        "info_set": "0|Qs|Jh|",
+        "fold": 0.0001,
+        "call": 0.9031,
+        "raise": 0.0969,
+        "visits": 4100.0
+      },
+      {
+        "info_set": "0|Ks|Jh|",
+        "fold": 0.0001,
+        "call": 0.5074,
+        "raise": 0.4926,
+        "visits": 4092.000000000018
+      },
+      {
+        "info_set": "0|Kh|Ks|",
+        "fold": 0.0001,
+        "call": 0.1505,
+        "raise": 0.8494,
+        "visits": 4092.0000000000086
+      },
+      {
+        "info_set": "0|Qs|Js|",
+        "fold": 0.0001,
+        "call": 0.9265,
+        "raise": 0.0734,
+        "visits": 4067.0000000000023
+      },
+      {
+        "info_set": "0|Ks|Js|",
+        "fold": 0.0055,
+        "call": 0.5221,
+        "raise": 0.4724,
+        "visits": 4043.999999999996
+      },
+      {
+        "info_set": "0|Ks|Kh|",
+        "fold": 0.0001,
+        "call": 0.1789,
+        "raise": 0.821,
+        "visits": 4020.000000000005
+      },
+      {
+        "info_set": "0|Qh|Ks|",
+        "fold": 0.0001,
+        "call": 0.888,
+        "raise": 0.1119,
+        "visits": 4015.0000000000005
+      },
+      {
+        "info_set": "0|Qs|Ks|",
+        "fold": 0.0003,
+        "call": 0.8065,
+        "raise": 0.1931,
+        "visits": 3986.9999999999995
+      },
+      {
+        "info_set": "0|Qh|Kh|",
+        "fold": 0.0002,
+        "call": 0.8152,
+        "raise": 0.1847,
+        "visits": 3929.000000000036
+      },
+      {
+        "info_set": "0|Qs|Qh|",
+        "fold": 0.0006,
+        "call": 0.2721,
+        "raise": 0.7273,
+        "visits": 3890.9999999999886
+      },
+      {
+        "info_set": "0|Ks|Qh|",
+        "fold": 0.0041,
+        "call": 0.855,
+        "raise": 0.1409,
+        "visits": 3884.000000000007
+      },
+      {
+        "info_set": "0|Qh|Qs|",
+        "fold": 0.0001,
+        "call": 0.1365,
+        "raise": 0.8634,
+        "visits": 3881.000000000006
+      },
+      {
+        "info_set": "1|Ks|Js|c",
+        "fold": 0.0003,
+        "call": 0.5045,
+        "raise": 0.4952,
+        "visits": 3834.0000000000014
+      },
+      {
+        "info_set": "0|Ks|Qs|",
+        "fold": 0.0003,
+        "call": 0.6423,
+        "raise": 0.3574,
+        "visits": 3829.9999999999754
+      },
+      {
+        "info_set": "0|Js|Ks|",
+        "fold": 0.0001,
+        "call": 0.7228,
+        "raise": 0.2771,
+        "visits": 3797.9999999999995
+      },
+      {
+        "info_set": "1|Kh|Ks|c",
+        "fold": 0.0004,
+        "call": 0.0013,
+        "raise": 0.9984,
+        "visits": 3782.0
+      }
+    ]
+  }
+}
