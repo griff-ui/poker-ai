@@ -1,4 +1,6 @@
-# Architecture
+---
+layout: default
+---# Architecture
 
 A from-scratch implementation of a complete game-theoretically optimal (GTO) poker AI, built across five progressive stages — from foundational CFR to real-time search — following the architecture of Pluribus (Brown & Sandholm, *Science*, 2019).
 
